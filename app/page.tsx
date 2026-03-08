@@ -82,7 +82,7 @@ export default function HomePage() {
 
     {/* Subheadline */}
     <motion.p
-      className="mb-8 text-lg sm:text-xl text-gray-800 dark:text-gray-200"
+      className="mb-8 text-lg sm:text-xl text-white"
       initial="hidden"
       whileInView="visible"
       viewport={{ once: true }}
